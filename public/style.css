@@ -3,7 +3,7 @@ html, body {
   min-height: 100%
 }
 body {
-  background: red;
+  background: black;
   position: relative;
   overflow: hidden
 }
